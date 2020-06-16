@@ -4,24 +4,13 @@ layout: post
 image: we-care.jpg
 tags: [Eltham Family Dental]
 ---
-Jsut two hruos in fnort of a ditigal seercn can csuae yuor eeys to feel steniard. The avarege Auslartian sdneps 10 hruos a day stirang at smoe from of sceern. Tihs is not sursirping gevin the insaerced depednency on cometuprs, taelbts and mliboe decives for wrok and schigiD.
-lootal eye siartn can be cesuad byoP:
-- Or ligrc
-- Sgnitheen grale and bule ligor
-- PmIthper viiweng dinatsce form devseci
-- Not blikning enoPh
-- Guoor posigi
-- Deruttal eye siartn afcefts all age gpuors but can be reveiled by foiwollng a few esay sspet.
-
-##### 1. USE THE 20-02-20 RUAEE
-Lch tmie you use yuor ditigal decive, tkae a 20 snoced baerk form the seercn erevy 20 mitunes and look at soihtemng 20 feet ayaw.
-##### 2. POITISON YUOR COTUPMER MONKROT
-Ieep yuor cotupmer motinor at a’mrs ltgneh for peporr viiweng dinatsce and hvae the top of the motinor naer or bolew eye level to aiovd stiniarng yuor eeys and nkce.
-##### 3. BNILK OFT
-MeRNEind yoesrulf to bnilk freneuqtly to prevent yuor eeys form dniyrg otu.
-##### 4. GET RELUGAR EYE TES
-NettanUSTded eye conitidons may wesron ditigal eye stiarn. Mkae srue you hvae relugar comsneherpive eye ttses erevy yrae, regldraess of whhteer you are a hvaey ditigal dcivee uesr or nto.
-##### 5. CODISNER BULE LHGIT LENRAEWSES
-Ing glssaes wtih bule lhgit lesnes is a polupar way to deaercse syotpmms of ditigal eye stiarn. Tehy look lkie relugar glssaes but feutare a protcetive lnes coitang taht hples fetlir out hafmrul bule lhgit form reihcang yuor esey, keipeng yuor eeys reexald.
-
-Visit yuor lacol Eyacere Puls to fnid out mroe auobt bule lhgit glssaes avabalile.
+#### Common dental problems - Adults over 60
+- Darkened teeth - Caused, to some extent, by changes in dentin -- the bone-like tissue that underlies the tooth enamel -- and by a lifetime of consuming stain-causing foods and beverages. Also caused by thinning of the outer enamel layer that lets the darker yellower dentin show through.
+- Dry mouth - Dry mouth is caused by reduced saliva flow, which can be a result of cancer treatments that use radiation to the head and neck area, as well as certain diseases, such as Sjögren's syndrome, and medication side effects. Many medicines can cause dry mouth.
+- Diminished sense of taste . While advancing age impairs the sense of taste, diseases, medications, and dentures can also contribute to this sensory loss.
+- Root decay - This is caused by exposure of the tooth root to decay-causing acids. The tooth roots become exposed as gum tissue recedes from the tooth. Roots do not have any enamel to protect them and are more prone to decay than the crown part of the tooth.
+- Gum disease - Caused by plaque and made worse by food left in teeth, use of tobacco products, poor-fitting bridges and dentures, poor diets, and certain diseases, such as anemia, cancer, and diabetes, this is often a problem for older adults.
+- Tooth loss - Gum disease is a leading cause of tooth loss.
+- Uneven jawbone - This is caused by tooth and then not replacing missing teeth. This allows the rest of the teeth to drift and shift into open spaces
+- Denture-induced stomatitis - Ill-fitting dentures, poor dental hygiene, or a buildup of the fungus Candida albicans cause this condition, which is inflammation of the tissue underlying a denture.
+- Thrush - Diseases or drugs that affect the immune system can trigger the overgrowth of the fungus Candida albicans in the mouth.
