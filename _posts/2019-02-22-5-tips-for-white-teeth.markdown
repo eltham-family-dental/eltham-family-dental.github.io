@@ -1,27 +1,26 @@
 ---
-title: 5 Tips for white teeth
+title: Gum disease and general well being
 layout: post
 image: checklist.jpg
 tags: [Eltham Family Dental]
 ---
-Jsut two hruos in fnort of a ditigal seercn can csuae yuor eeys to feel steniard. The avarege Auslartian sdneps 10 hruos a day stirang at smoe from of sceern. Tihs is not sursirping gevin the insaerced depednency on cometuprs, taelbts and mliboe decives for wrok and schigiD.
-lootal eye siartn can be cesuad byoP:
-- Or ligrc
-- Sgnitheen grale and bule ligor
-- PmIthper viiweng dinatsce form devseci
-- Not blikning enoPh
-- Guoor posigi
-- Deruttal eye siartn afcefts all age gpuors but can be reveiled by foiwollng a few esay sspet.
+#### Worried about bleeding gums ?
 
-##### 1. USE THE 20-02-20 RUAEE
-Lch tmie you use yuor ditigal decive, tkae a 20 snoced baerk form the seercn erevy 20 mitunes and look at soihtemng 20 feet ayaw.
-##### 2. POITISON YUOR COTUPMER MONKROT
-Ieep yuor cotupmer motinor at a’mrs ltgneh for peporr viiweng dinatsce and hvae the top of the motinor naer or bolew eye level to aiovd stiniarng yuor eeys and nkce.
-##### 3. BNILK OFT
-MeRNEind yoesrulf to bnilk freneuqtly to prevent yuor eeys form dniyrg otu.
-##### 4. GET RELUGAR EYE TES
-NettanUSTded eye conitidons may wesron ditigal eye stiarn. Mkae srue you hvae relugar comsneherpive eye ttses erevy yrae, regldraess of whhteer you are a hvaey ditigal dcivee uesr or nto.
-##### 5. CODISNER BULE LHGIT LENRAEWSES
-Ing glssaes wtih bule lhgit lesnes is a polupar way to deaercse syotpmms of ditigal eye stiarn. Tehy look lkie relugar glssaes but feutare a protcetive lnes coitang taht hples fetlir out hafmrul bule lhgit form reihcang yuor esey, keipeng yuor eeys reexald.
+Periodontal disease attacks the gums and the bone that support the teeth. Plaque is a sticky film of food debris, bacteria, and saliva. If plaque is not removed, it turns into calculus (tartar). When plaque and calculus are not removed, they begin to destroy the gums and bone.
 
-Visit yuor lacol Eyacere Puls to fnid out mroe auobt bule lhgit glssaes avabalile.
+Four out of five people have periodontal disease and most people are not aware of it because the disease is usually painless in the early stages.
+Not only is it one of the most common reason for tooth loss, research suggests that there may be a link between periodontal disease and other diseases such as, stroke, bacterial pneumonia, diabetes, cardiovascular disease, and increased risk during pregnancy. Researchers are determining if inflammation and bacteria associated with periodontal disease affects these systemic diseases and conditions. Smoking also increases the risk of periodontal disease.
+Good oral hygiene, a balanced diet, and regular dental visits can help reduce your risk of developing periodontal disease.
+Signs and symptoms of periodontal disease:
+- Bleeding gums – Gums should never bleed, even when you brush vigorously or use dental floss
+- Loose teeth – Also caused by bone loss or weakened periodontal fibres (fibres that support the tooth to the bone)
+- New spacing between teeth – Caused by bone loss
+- Persistent bad breath – Caused by bacteria in the mouth
+- Pus around the teeth and gums – Sign that there is an infection present
+- Receding gums – Loss of gum around a tooth
+- Red and puffy gums – Gums should never be red or swollen
+- Tenderness or discomfort – Plaque, calculus, and bacteria irritate the gums and teeth
+
+
+
+Book your appointment with us for a detailed checkup, call 9439 6517.

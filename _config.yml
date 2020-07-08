@@ -1,6 +1,6 @@
 # Site settings
-title: Eltham Family Dental
-description: "Looking after Eltham and surrounding suburbs"
+title: Dentist Eltham Family Dental
+description: "Personalised and affordable dental care for the whole family by experienced local dentists"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elthamfamilydental.com.au/" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -57,7 +57,7 @@ facebook: https://www.facebook.com/Eltham-Family-Dental-1300233293466426
 # feed: yes
 
 # Footer
-copyright: © 2019<br /> Eltham Family Dental <br />All rights reserved
+copyright: © 2020<br /> Eltham Family Dental <br />All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -77,7 +77,7 @@ exclude: [
 
 # Theme Settings
 analytics: UA-137444156-1
-google_verification:
+google_verification: ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE
 
 sass:
     style: compressed

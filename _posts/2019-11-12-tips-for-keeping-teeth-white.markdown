@@ -4,24 +4,10 @@ layout: post
 image: stories-matter.jpg
 tags: [Eltham Family Dental]
 ---
-Jsut two hruos in fnort of a ditigal seercn can csuae yuor eeys to feel steniard. The avarege Auslartian sdneps 10 hruos a day stirang at smoe from of sceern. Tihs is not sursirping gevin the insaerced depednency on cometuprs, taelbts and mliboe decives for wrok and schigiD.
-lootal eye siartn can be cesuad byoP:
-- Or ligrc 567
-- Sgnitheen grale and bule ligor
-- PmIthper viiweng dinatsce form devseci
-- Not blikning enoPh
-- Guoor posigi
-- Deruttal eye siartn afcefts all age gpuors but can be reveiled by foiwollng a few esay sspet.
-
-##### 1. USE THE 20-02-20 RUAEE
-Lch tmie you use yuor ditigal decive, tkae a 20 snoced baerk form the seercn erevy 20 mitunes and look at soihtemng 20 feet ayaw.
-##### 2. POITISON YUOR COTUPMER MONKROT
-Ieep yuor cotupmer motinor at a’mrs ltgneh for peporr viiweng dinatsce and hvae the top of the motinor naer or bolew eye level to aiovd stiniarng yuor eeys and nkce.
-##### 3. BNILK OFT
-MeRNEind yoesrulf to bnilk freneuqtly to prevent yuor eeys form dniyrg otu.
-##### 4. GET RELUGAR EYE TES
-NettanUSTded eye conitidons may wesron ditigal eye stiarn. Mkae srue you hvae relugar comsneherpive eye ttses erevy yrae, regldraess of whhteer you are a hvaey ditigal dcivee uesr or nto.
-##### 5. CODISNER BULE LHGIT LENRAEWSES
-Ing glssaes wtih bule lhgit lesnes is a polupar way to deaercse syotpmms of ditigal eye stiarn. Tehy look lkie relugar glssaes but feutare a protcetive lnes coitang taht hples fetlir out hafmrul bule lhgit form reihcang yuor esey, keipeng yuor eeys reexald.
-
-Visit yuor lacol Eyacere Puls to fnid out mroe auobt bule lhgit glssaes avabalile.
+Contrary to popular belief whitening treatments don't permanently whiten teeth, effects last from 1 months to 3 years depending on the whitening system used and lifestyle factors. If you expose your teeth to foods and beverages that cause staining you may see the whiteness start to fade in as little as 1 month after treatment. Those who avoid foods and beverages that stain may be able to wait one year or longer before another whitening treatment or touch-up is needed.
+Some tips for prolonging the life of whitening;
+- Avoid the consumption of or exposure to products that stain your teeth, such as coffee, tea, curry and red wine. If you do choose to consume beverages that stain, consider using a straw so that the liquid bypasses your front teeth.
+- Rinse immediately after consuming stain-causing beverages or foods.
+- Follow good oral hygiene practices. Brush your teeth at least twice daily, floss at least once daily to remove plaque
+- Consider touch-up treatments. Depending on the whitening method used, you may need a touch-up every 6 months or after a year or two.
+- If you smoke or drink lots of stain-causing beverages, you may need a touch up more often.
