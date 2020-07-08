@@ -5,14 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
-    {% if site.google-verification %}
-    <meta name="google-site-verification" content="{{ site.google_verification }}">
-    <meta name="google-site-verification" content="ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE">
-    {% endif %}
     <title>{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
     <script src="{{ "/js/lazysizes.min.js" | relative_url }}" async=""></script>
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    <meta name="google-site-verification" content="ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE" />
 
     <!-- Stylesheet -->
     <style type="text/css">.no-fouc {display: none;}</style>
@@ -24,8 +21,9 @@
     <style>
     {% include criticalplus.css %}
     </style>
-    <link rel="stylesheet" href="{{ "/css/main.css?cb=1574128696279" | relative_url }}" media="print" onload="this.media='all'; this.onload=null;">
+    <link rel="stylesheet" href="{{ "/css/main.css?cb=1594213038728" | relative_url }}" media="print" onload="this.media='all'; this.onload=null;">
     <!-- <link rel="preload" href="{{ "/css/main.css?cb=1574128696279" | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ "/favicon.png" | relative_url }}">
@@ -36,5 +34,5 @@
     <script>var head=document.getElementsByTagName("head")[0],insertBefore=head.insertBefore;head.insertBefore=function(e,o){e.href&&e.href.indexOf("//fonts.googleapis.com/css?family=Roboto")>-1?console.info("Prevented Roboto from loading!"):insertBefore.call(head,e,o)};
     </script>
     {% include fb-pixel.html %}
-    <meta name="google-site-verification" content="ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE" />
+
 </head>
