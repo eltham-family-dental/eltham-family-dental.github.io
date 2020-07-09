@@ -77,7 +77,7 @@ exclude: [
 
 # Theme Settings
 analytics: UA-137444156-1
-google_verification: ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE
+# google_verification: ZrkX9oae9Z95Ndzuqb_5R7LCgqHzcAYbFZC3OcLCkgE
 
 sass:
     style: compressed

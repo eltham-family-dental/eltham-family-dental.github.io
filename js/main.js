@@ -7,20 +7,8 @@ jQuery(document).ready(function($) {
             $(this).find(".close").addClass("d-none"))
     })
 
-    $(window).scroll(function() {
-        if ($(this).scrollTop() > 70) {
-            $('#back-to-top').show(150);
-        } else {
-            $('#back-to-top').hide(150);
-        }
+    $('.fab').click (function(){
+      $('.radial').toggleClass('open');
     });
-    // scroll body to 0px on click
-    $('#back-to-top').click(function() {
-        $('#back-to-top').tooltip('hide');
-    });
-
-    if ($('#back-to-top').css('display') !== 'none') {
-        $('#back-to-top').tooltip('show');
-    }
 
 });
