@@ -1,4 +1,5 @@
-$red: #ff4081;
+$floating-btn: #3dadb2;
+$main-color: #3dadb2;
 
 .disable-focus:focus {
   outline: 0;
@@ -10,18 +11,18 @@ $red: #ff4081;
   position: fixed;
   right: 15px;
   bottom: 15px;
-  // background: $red;
-  background: blue;
+  // background: $floating-btn;
+  background: transparent;
   border-radius: 50%;
   transition: all 0.2s ease-in-out;
-  box-shadow: 0px 2px 4px rgba(0,0,0,0.15), 0px 4px 8px rgba(0,0,0,0.2);
+  // box-shadow: 0px 2px 4px 2px rgba(0,0,0,0.15), 0px 4px 8px rgba(0,0,0,0.2);
   z-index: 20;
 }
 
 .fab {
   border: none;
   color: white;
-  background-color: #ff4081;
+  background-color: darken($floating-btn, 8);
   border-radius: 50%;
   width: 80px;
   height: 80px;
@@ -30,7 +31,7 @@ $red: #ff4081;
   bottom: 15px;
   transition: all 0.15s ease-in-out;
   &:hover {
-    background-color: darken($red, 15);
+    background-color: darken($floating-btn, 15);
   }
 }
 
@@ -39,18 +40,18 @@ $red: #ff4081;
   margin-top: 7px;
 }
 
-#fa-1, #fa-2, #fa-3 {
+#fa-phone, #fa-marker, #fa-calendar {
   position: fixed;
   background: transparent;
   border: none;
-  right: 30px;
-  bottom: 33px;
+  right: 38px;
+  bottom: 36px;
   transition: all 0.15s ease-in-out;
   color: white;
 
   &:hover {
    tansition-delay: 0s;
-   color: lighten($red, 15);
+   color: lighten($floating-btn, 15);
   }
 }
 
@@ -60,24 +61,25 @@ $red: #ff4081;
     width: 300px;
     right: -95px;
     bottom: -95px;
+    background-color: darken($main-color, 3);
 
     .fab {
-      background-color: darken($red, 15);
+      background-color: darken($floating-btn, 15);
       box-shadow: 0px 2px 4px rgba(0,0,0,0.15), 0px 4px 8px rgba(0,0,0,0.2);
     }
 
     #plus {
       transform: rotateZ(135deg) translate(-1px, 3px);
     }
-    #fa-1 {
+    #fa-phone {
       transition-delay: 0.1s;
       transform: translate(-100px, 0px);
     }
-    #fa-2 {
+    #fa-marker {
       transition-delay: 0.1s;
       transform: translate(-75px, -65px);
     }
-    #fa-3 {
+    #fa-calendar {
       transition-delay: 0.1s;
       transform: translate(-0px, -95px);
     }
