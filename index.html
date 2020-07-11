@@ -208,11 +208,22 @@ layout: default
 </div>
 <!-- End Stories -->
 
+<!-- Start Slider -->
+<div id="slider" class="section">
+  <div class="slider container">
+    <img class="lazyload slider-img" data-src="{{ "/img/ADA.png" | relative_url }}" alt="Image">
+    <img class="lazyload slider-img" data-src="{{ "/img/IDN.png" | relative_url }}" alt="Image">
+    <img class="lazyload slider-img" data-src="{{ "/img/radio.gif" | relative_url }}" alt="Image">
+    <img class="lazyload slider-img" data-src="{{ "/img/fc.png" | relative_url }}" alt="Image">
+  </div>
+</div>
+<!-- End Slider -->
+
 <!-- Start Gallery -->
 <div id="gallery" class="gallery">
     <h2 class="section-title grey-dark font-weight-bold">Gallery</h2>
     {% for images in site.data.gallery %}
-    <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
+    <div class="gallery-item expandable-box image-link">
         <div class="expandable-box-top">
             <img class="lazyload" data-src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
         </div>
@@ -221,7 +232,7 @@ layout: default
                     <use xlink:href="#icon-chain"></use>
                 </svg></span>
         </div>
-    </a>
+    </div>
     {% endfor %}
 </div>
 <!-- End Gallery -->
@@ -235,7 +246,7 @@ layout: default
     <div class="fa fa-phone fa-3x" id="fa-phone"></div>
   </a>
 
-  <a href="https://g.page/eltham-family-dental">
+  <a href="https://www.google.com/maps/search/?api=1&query=-37.715589, 145.150247&query_place_id=ChIJ612Kv8831moRNZVjYeTVsGc">
     <div class="fa fa-map-marker fa-3x" id="fa-marker"></div>
   </a>
 

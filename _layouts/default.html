@@ -15,6 +15,11 @@
     {% unless page.name == 'team.html' %}
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
     {% endunless %}
+
+    {% if page.name == 'index.html' %}
+    <script type="text/javascript"  src="{{ "/js/slick.min.js" | relative_url }}"></script>
+    {% endif %}
+
     {% if page.name == 'index.html' %}
     <script>
     var map;
@@ -86,13 +91,25 @@
     {% include form-js.html %}
     {% endif %}
 
-    <script rel="preload" src="{{ "/js/all.min.js?cb=1594213038728" | relative_url }}"></script>
+    <script rel="preload" src="{{ "/js/all.min.js?cb=1594385179471" | relative_url }}"></script>
     <script>var scroll = new SmoothScroll('a[href*="#"]');</script>
     {% include cookie-consent.html %}
     <script type="text/javascript">
      $(document).ready(function() {
         $('.no-fouc').removeClass('no-fouc');
         $('.carousel').carousel({ interval: {{site.carousel-interval}} });
+
+        $('.slider').slick({
+          slidesToShow: 3,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 1000,
+          arrows: false,
+          variableWidth: true,
+          infinite: true,
+          pauseOnHover: false,
+          centerMode: true,
+        });
      });
     </script>
 

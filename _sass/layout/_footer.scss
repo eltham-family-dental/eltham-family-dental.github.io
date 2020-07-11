@@ -1,7 +1,7 @@
 /* FOOTER
 -------------------------------------------------*/
 .footer {
-    margin-bottom: 48px;
+    // margin-bottom: 48px;
 
     @include media-breakpoint-up(md) {
         margin-bottom: 0;
@@ -31,6 +31,17 @@
 
 .grey {
     color: #7D7D7D;
+}
+
+.member-img {
+    max-height: 65px;
+}
+.footer-img-container img:not(:first-child) {
+    margin-left: 10px;
+    @include media-breakpoint-down(sm) {
+        margin-top: 15px;
+        margin-left: 0px;
+    }
 }
 
 
