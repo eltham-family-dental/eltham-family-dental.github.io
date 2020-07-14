@@ -118,10 +118,16 @@ layout: default
 <div id="offer" class="section section-vision mt-5">
     <div class="container">
         <h2 class="text-center mb-5 font-weight-bold grey-dark">Why choose us?</h2>
+        <p class="font-size-medium">{{site.data.choose.header_text }}</p>
+
+        {% for list in site.data.choose.lists %}
+        <li class="font-size-medium">{{list.list_item}}</li>
+        {% endfor %}
+
         <div class="row pt-4 px-3 px-lg-0">
 
-            {% for vision in site.data.visions %}
-            <div class="col-md-6 col-lg-3 bg-grey-lightest">
+            {% for vision in site.data.choose.member %}
+            <div class="col-md-12 col-lg-4 bg-grey-lightest">
                 <div class="row align-items-center">
                     <div class="col-4 col-lg-12">
                         <picture>
