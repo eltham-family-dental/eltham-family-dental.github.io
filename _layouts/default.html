@@ -99,6 +99,7 @@
         $('.no-fouc').removeClass('no-fouc');
         $('.carousel').carousel({ interval: {{site.carousel-interval}} });
 
+        {% if page.name == 'index.html' %}
         $('.slider').slick({
           slidesToShow: 3,
           slidesToScroll: 1,
@@ -110,6 +111,8 @@
           pauseOnHover: false,
           centerMode: true,
         });
+        {% endif %}
+
      });
     </script>
 
