@@ -17,6 +17,7 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "github-pages"
+  gem "jekyll-redirect-from"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
