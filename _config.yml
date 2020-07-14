@@ -84,3 +84,4 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
