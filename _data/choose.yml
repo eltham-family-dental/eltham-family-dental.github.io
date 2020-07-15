@@ -1,5 +1,14 @@
 header_text: At Eltham Family Dental, we provide a range of dental services at our modern dental clinic in Eltham. Using the latest dentistry techniques and technologies we offer&#58;
 
+lists:
+  - list_item: Dental implants, veneers, affordable dentures and crowns
+  - list_item: Teeth cleaning and teeth whitening using Smartbleach®
+  - list_item: Gum disease treatment, root canal treatments and fillings
+  - list_item: Orthodontics including invisible braces and Invisalign®
+  - list_item: Sleep apnoea assessments and jaw joint issues – temporo mandibular joint disorders (TMD & TMJ)
+
+header_text_2: Eltham Family Dental believes in providing high quality, personalised dental treatment at affordable prices. We take the time to listen and understand what your dental needs are before delivering optimal advice and dental care for you. Our highly trained and experienced dentists focus on preventive dentistry; the practice of caring for your teeth and gums to keep them healthy. A focus on prevention helps you avoid cavities, gum disease and enamel wear. This increases the chance of you keeping your teeth for life without the need for extensive dental treatment.
+
 member:
   - image: brush.jpeg
     image-webp: brush.webp
@@ -17,15 +26,6 @@ member:
     image-webp: xray.webp
     title: Affordable Dentist
     description: Eltham Family Dental provides high quality and affordable dental care for everyone. We believe everyone should have access to premium dental care and offer customised dental treatments at affordable prices. Our payment instalment options are an ideal  way for you and your family to get regular dental care without breaking your bank. <a href="tel:94396517">Call</a> or <a href="admin@elthamfamilydental.com.au">email us</a>   to discuss the best option for your circumstances.
-
-lists:
-  - list_item: Dental implants, veneers, affordable dentures and crowns
-  - list_item: Teeth cleaning and teeth whitening using Smartbleach®
-  - list_item: Gum disease treatment, root canal treatments and fillings
-  - list_item: Orthodontics including invisible braces and Invisalign®
-  - list_item: Sleep apnoea assessments and jaw joint issues – temporo mandibular joint disorders (TMD & TMJ)
-
-
 
 
 

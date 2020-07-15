@@ -124,6 +124,10 @@ layout: default
         <li class="font-size-medium">{{list.list_item}}</li>
         {% endfor %}
 
+        <br>
+
+        <p class="font-size-medium">{{site.data.choose.header_text_2 }}</p>
+
         <div class="row pt-4 px-3 px-lg-0">
 
             {% for vision in site.data.choose.member %}
@@ -186,11 +190,11 @@ layout: default
                 <p class="font-size-medium">{{ site.data.visit.text }}</p>
             </div>
 
-            <ol>
+            <ul>
                 {% for list in site.data.visit.lists %}
                 <li class="font-size-medium">{{list.list_item}}</li>
                 {% endfor %}
-            </ol>
+            </ul>
 
         </div>
         <div class="d-block text-center mt-4">
