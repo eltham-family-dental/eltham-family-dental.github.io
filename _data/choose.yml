@@ -1,0 +1,31 @@
+header_text: At Eltham Family Dental, we provide a range of dental services at our modern dental clinic in Eltham. Using the latest dentistry techniques and technologies we offer&#58;
+
+member:
+  - image: brush.jpeg
+    image-webp: brush.webp
+    title: Local & Caring
+    description: As a trusted dental clinic in Eltham and continuously operating since 1988, we have provided affordable and personalised dental care to generations of families in Eltham and surrounding suburbs. We offer gentle and affordable professional care in a comfortable environment. As active participants in our local community, we are a proud sponsor for Eltham FootBall club and Plenty Valley FM.
+
+
+  - image: dental_chair.jpeg
+    image-webp: dental_chair.webp
+    title: New Patients Welcome
+    description: With over 30 years of experience, Eltham Family Dental welcomes new patients to our dental clinic. Our dental clinic is a convenient option for locals who are now working from home or don’t want to travel too far. We can also provide you with high quality dental care if you have recently moved to the area, are changing health insurance providers, have an emergency or just want a second opinion. Our gentle, caring and experienced dentists will put you at ease while providing the best dental care.
+
+
+  - image: xray.jpg
+    image-webp: xray.webp
+    title: Affordable Dentist
+    description: Eltham Family Dental provides high quality and affordable dental care for everyone. We believe everyone should have access to premium dental care and offer customised dental treatments at affordable prices. Our payment instalment options are an ideal  way for you and your family to get regular dental care without breaking your bank. <a href="tel:94396517">Call</a> or <a href="admin@elthamfamilydental.com.au">email us</a>   to discuss the best option for your circumstances.
+
+lists:
+  - list_item: Dental implants, veneers, affordable dentures and crowns
+  - list_item: Teeth cleaning and teeth whitening using Smartbleach®
+  - list_item: Gum disease treatment, root canal treatments and fillings
+  - list_item: Orthodontics including invisible braces and Invisalign®
+  - list_item: Sleep apnoea assessments and jaw joint issues – temporo mandibular joint disorders (TMD & TMJ)
+
+
+
+
+

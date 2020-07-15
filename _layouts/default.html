@@ -99,17 +99,20 @@
         $('.no-fouc').removeClass('no-fouc');
         $('.carousel').carousel({ interval: {{site.carousel-interval}} });
 
+        {% if page.name == 'index.html' %}
         $('.slider').slick({
-          slidesToShow: 3,
+          slidesToShow: 1,
           slidesToScroll: 1,
           autoplay: true,
-          autoplaySpeed: 1000,
-          arrows: false,
+          autoplaySpeed: 3000,
           variableWidth: true,
-          infinite: true,
-          pauseOnHover: false,
+          // infinite: false,
           centerMode: true,
+          pauseOnHover: false,
+          arrows: false,
         });
+        {% endif %}
+
      });
     </script>
 

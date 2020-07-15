@@ -57,7 +57,7 @@ facebook: https://www.facebook.com/Eltham-Family-Dental-1300233293466426
 # feed: yes
 
 # Footer
-copyright: © 2020<br /> Eltham Family Dental <br />All rights reserved
+copyright: © 2020<br /> Eltham Family Dental <br />ABN 16 632 147 112 <br />All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -84,3 +84,4 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from

@@ -15,7 +15,7 @@ layout: default
             {% for member in site.data.team.members %}
             {% assign mod = forloop.index | modulo: 2 %}
             <div class="col-sm-6">
-                <div class="row align-items-center">
+                <div class="row align-items-start">
                     <div class="col-4">
                         <img alt="image" class="img-fluid rounded lazyload" data-src="{{ "/img/team/" | relative_url }}{{ member.image }}">
                     </div>
