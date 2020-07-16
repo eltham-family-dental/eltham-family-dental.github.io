@@ -237,23 +237,28 @@ layout: default
 <!-- Start Map -->
 <div id="location" class="map"></div>
 <!-- End Map -->
-<!-- Start Radial Action Button -->
-<div class="radial">
 
-  <a class="" href="tel:94396517">
-    <div class="fa fa-phone fa-3x" id="fa-phone"></div>
-  </a>
-
-  <a href="https://www.google.com/maps/search/?api=1&query=-37.715589, 145.150247&query_place_id=ChIJ612Kv8831moRNZVjYeTVsGc">
-    <div class="fa fa-map-marker fa-3x" id="fa-marker"></div>
-  </a>
-
-  <a href="{{"/booking" | relative_url}}">
-    <div class="fa fa-calendar fa-3x" id="fa-calendar"></div>
-  </a>
-
-  <button class="fab disable-focus">
-    <div class="fa fa-plus fa-3x" id="plus"></div>
-  </button>
-</div>
-<!-- End Back-to-top -->
+<!-- Start of Logo & Org structured data -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Eltham Family Dental",
+        "description": "Personalised and affordable dental care for the whole family by exprienced local dentists",
+        "email": "admin@elthamfamilydental.com.au",
+        "url": "http://elthamfamilydental.com.au",
+        "logo": "https://elthamfamilydental.com.au/svg/min/logo.svg",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Eltham",
+          "streetAddress": "Unit 1/23 Dudley St, Eltham VIC 3095"
+        },
+        "telephone": "+61 3 9439 6517",
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "-37.715568",
+            "longitude": "145.150730"
+        }
+    }
+</script>
+<!-- End of Logo & Org structured data -->

@@ -10,6 +10,7 @@ layout: pages
         <ul class="page-list">
             <li><a href="{{ "/" | relative_url }}">Home</a></li>
             <li><a href="{{ "/aboutus" | relative_url }}">About Eltham Family Dental</a></li>
+            <li><a href="{{ "/stories" | relative_url }}">Stories</a></li>
             <li><a href="{{ "/faq" | relative_url }}">FAQs</a></li>
             <li><a href="{{ "/contact" | relative_url }}">Contact us</a></li>
             <li><a href="{{ "/sitemap" | relative_url }}">Sitemap</a></li>
