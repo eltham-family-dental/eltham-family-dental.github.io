@@ -140,9 +140,12 @@ layout: default
                             <img class="lazyload img-vision" data-src="{{ site.baseurl }}/img/{{ vision.image }}" alt="Image" style="margin-left: -30px;">
                         </picture>
                     </div>
-                    <div class="col-8 col-lg-12">
+                    <div class="col-12 col-md-8 col-lg-12">
                         <div class="p-3">
-                            <h5 class="font-weight-bold mb-4">{{ vision.title }}</h5>
+                            <svg class="icon check-square d-inline-block d-md-none">
+                                <use xlink:href="#check-square"></use>
+                            </svg>
+                            <h5 class="font-weight-bold mb-4 d-inline-block d-md-block">{{ vision.title }}</h5>
                             <div class="font-size-medium mb-4 mb-md-0">
                                 <p>{{ vision.description }}</p>
                             </div>
