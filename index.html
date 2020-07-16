@@ -133,7 +133,7 @@ layout: default
             {% for vision in site.data.choose.member %}
             <div class="col-md-12 col-lg-4 bg-grey-lightest">
                 <div class="row align-items-center">
-                    <div class="col-4 col-lg-12">
+                    <div class="col-4 col-lg-12 d-none d-md-block">
                         <picture>
                             <source class="lazyload img-vision" type="image/webp" data-srcset="{{ site.baseurl }}/img/{{ vision.image-webp }}" style="margin-left: -30px;">
                             <source class="lazyload img-vision" type="image/jpeg" data-srcset="{{ site.baseurl }}/img/{{ vision.image }}" style="margin-left: -30px;">
