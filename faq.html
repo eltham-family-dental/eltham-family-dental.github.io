@@ -1,11 +1,12 @@
 ---
 layout: default
+page_title: Frequently Asked Questions
 ---
+<!-- Start of FAQ -->
 <main id="content" class="bg-grey-lightest">
     <div class="section section-posts bg-grey-lightest">
         <div class="container container-md">
 
-        <!-- Start of FAQ -->
         <div class="heading mb-5">
             <h6 class="font-weight-bold grey-dark">Frequently Asked Questions</h6>
         </div>
@@ -35,9 +36,29 @@ layout: default
                 </div>
             </div>
         </div>
-        <!-- End of FAQ -->
 
         </div>
     </div>
 </main>
-<!-- End Stories section -->
+<!-- End of FAQ -->
+
+<!-- Start of FAQ  JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+  {% for list in site.data.faq.items %}
+  {
+    "@type": "Question",
+    "name": "{{list.q}}",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "{{list.a}}"
+    }
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]
+}
+</script>
+<!-- End of FAQ  JSON-LD -->
