@@ -1,5 +1,48 @@
 items:
-  - q: What is Lorem Ipsum?
-    a: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  - q: Why use Lorem Ipsum?
-    a: It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+  - q: Is it safe to visit the dentist now with CoVID cases increasing?
+    a: |+
+      Australian dental practitioners have the highest infection control standards in the world and the safety of their patients and their teams is a cornerstone of Australian dental practice. Our clinic is taking a risk based approach to treating patients based on advise from Dental Board of Australia; this means where appropriate, dentists may take extra precautions, and if required you will be advised of these. <br />
+
+      During the COVID-19 pandemic, additional steps are being made to stop the spread of the virus. You might see an empty waiting room and be asked to wash your hands or use hand sanitiser as you enter the practice. Your dentist will ask you to do a mouthwash prior to treatment and may use a ‘rubber dam’ to perform any emergency treatment. All of these measures are designed to minimise any risk to you and to the practice team.
+
+  - q: How much is a check-up and clean?
+    a: Starts from $59 for a limited check focusing only on the issue that you are presenting with and $89 for a full mouth comprehensive checkup - teeth , gums, jaw joints .  One hour consultation is $99.
+
+  - q: How much is a clean?
+    a: Starts from $128 - which includes full mouth cleaning with peizo scalers / ultrasonic scalers followed by prophy cup polishing.
+
+  - q: How much is a filling?
+    a: Filling cost depends one the size and site of the cavity. An amalgam  / silver filling starts from $136 and a composite/ tooth coloured filing starts from $146.
+
+  - q: Is there a female or male dentist?
+    a: We are a team of two experienced female and one male dentist.With a combined experience of 80 years we provide quality treatments and patient care
+
+  - q: Do you accept health insurance?
+    a: We accept all health insurance and on the spot claiming is available.
+
+  - q: Do you accept health care cards?
+    a: We do not accept health care cards,but talk to us as to what other options are available for you  for a personalised quality dental care.
+
+  - q: Do you do teeth whitening?
+    a: We offer various teeth whitening services including the Smartbleach laser teeth whitening as well as other In- chair systems like Pola office plus. Talk to us to know which option suit you better. We offer an obligation free whitening consultation.
+
+  - q: When should I take my kids to the dentist first?
+    a: It is a good idea to make the kids visit the dentist from as little as one year. By two and half years make sure you have done your first dental visit. Visit the dentist  at least once a year.
+
+  - q: I have a fear of dental treatment and have had bad experiences in the past, how can you help me?
+    a: |
+      - Fun friendly team <br />
+      - Relaxing environment <br />
+      - Music to calm you down <br />
+      - Get to know you more and what makes you nervous
+
+  - q: What happens if I don’t have health insurance cover?
+    a: Talk to us about our personalised preventive dental care plan which  will give you peace of mind that all your preventive dental care will be covered by convenient monthly payments. You can remove the financial pressure of treatment cost gaps and Health Fund treatment exclusions by planning ahead. Get the full value of your dental dollar.
+
+  - q: Why is Eltham Family Dental not a preferred provider?
+    a: |+
+      In recent years some health funds have introduced “contracted dentist” schemes which claim to decrease your out-of-pocket costs. These schemes do not decrease your premiums or increase your annual limits, you may get lower gap payments with a contracted dentist, but you will be entitled to fewer claimable services in the same calendar year as that compared with a non-contracted dentist. Health Fund rebates have not only failed to keep pace with costs associated with the provision of dental care, but the range of services claimable in a calendar year have also become increasingly more restricted.By becoming a contracted dentist, the dentist concerned agrees to accept the terms and fees as set down by the respective health fund. This effectively guarantees the customer a fixed and predictable treatment gap. There are, however, problems with “managed care”. Like most things, you get what you pay for. Such schemes assume all dental providers are the same and that the only factor influencing choice is “cost”. This is a limited viewpoint of a very complex dentist-patient relationship, with other factors such as Trust, Quality and Care playing equal if not more important roles when choosing a dentist. In summary, standards may drop whilst treatment failure and patient dissatisfaction increase. Remember, the health fund is just a business and the contracted dentist scheme is a business decision. An interesting link to read&#58; <a href="http://mobile.abc.net.au/news/2017-06-30/dentists-say-targets-bonuses-leading-to-unnecessary-procedures/8665038?pfmredir=sm&sf94235976=1" target="_blank">dentists-say-targets-bonuses-leading-to-unnecessary-procedures</a> <br/><br/>
+
+      Contracted dentists schemes remove patient rights to having their treatment performed by a clinician of their own choosing. Here at EFD we strongly believe contracted dentists schemes are not in the best interest of our patients. We believe it should be your choice to see whichever dentist you please not be dictated to by an insurance company. Ultimately it is your decision, and remember there are health funds out there doing the right thing by their customers and the dental profession. For further information just ask one of our friendly office staff members on alternative options.
+
+
