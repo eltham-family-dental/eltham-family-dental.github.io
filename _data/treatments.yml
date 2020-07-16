@@ -32,3 +32,22 @@
 - icon: icon-hospital-o
   title: Location
   description: When you’re searching for a dentist near me, Eltham Family Dental Clinic is convenient and affordable. Located across Eltham Terrace shopping centre, there is ample onsite parking for all our patients. With multiple shops and cafes in the vicinity your parking options are unlimited. During COVID-19 travel restrictions, you can get peace of mind by visiting a local dentist. Using the new all-in-one HICAPS terminals we combine EFTPOS and health fund  claims with  tap and go experience.  We also offer on-the-spot health fund rebates for all major health care funds and for Medicare and DVA patients.
+
+- icon: virus
+  title: COVID-19 update
+  description: At Eltham Family Dental we are committed to the safety of our patients and team during the COVID-19 pandemic. In line with the <a href="https://www.dentalboard.gov.au/" target="_blank">Australian Dental Board</a> guidelines we have taken the following best practices and stringent protocols to reduce the risk of exposure. The steps we have taken to make our dental clinic a safe place include&#58;
+    <ol class="pl-3">
+    <li>Completing a COVID-19 risk questionnaire during appointment booking.</li>
+    <li>A COVID-19 risk reminder SMS a day before your appointment.</li>
+    <li>Allowing only one patient inside the dental clinic at a time.</li>
+    <li>Rigorous  cleaning and disinfection between patients.</li>
+    <li>Provision of hand sanitisers throughout our dental clinic.</li>
+    <li>Pre procedural mouth rinses and use of social distancing techniques.</li>
+    <li>Appropriate use of personal protection equipment for all our staff.</li>
+    <li>Including surgical gowns, face masks, face shields and gloves.</li>
+    <li>A fresh air exhaust system inside our dental clinic to minimise aerosol  contamination.</li>
+    <li>Infection control barriers on any items that a patient needs to touch</li>
+    <ol>
+
+
+
