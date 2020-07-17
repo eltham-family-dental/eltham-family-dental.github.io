@@ -46,8 +46,8 @@
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        "description": {{ page.excerpt | strip_newlines | strip | jsonify }},
+        "@type": "Article",
+        "description": {{ page.excerpt | strip_newlines | | strip_html | jsonify }},
         "url": "{{site.url}}{{page.url | remove_first: "/"}}",
         "mainEntityOfPage": {
         "@type": "WebPage",
