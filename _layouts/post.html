@@ -46,12 +46,17 @@
         "@type": "Article",
         "headline": "{{page.title}}",
         "name": "{{page.title}}",
-        "description": {{ page.excerpt | strip_newlines | strip_html | truncatewords:15 | jsonify }},
+        "articleBody": {{ page.excerpt | strip_newlines | strip_html | truncatewords:25 | jsonify }},
         "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
         "dateModified" : "{{ page.date | date: "%Y-%m-%d" }}",
         "articleSection": "Stories",
         "url": "{{site.url}}{{page.url | remove_first: "/"}}",
-        "image": ["https://elthamfamilydental.com.au/img/{{ page.image }}"],
+        "image": {
+        "@type": "imageObject",
+        "url": "https://elthamfamilydental.com.au/img/{{ page.image }}",
+        "height": "680",
+        "width": "1110"
+        },
         "author": {
         "@type": "Person",
         "name": "Eltham Family Dental"
