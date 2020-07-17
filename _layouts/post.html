@@ -45,18 +45,31 @@
     </script>
     <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "NewsArticle",
-      "description": {{ page.excerpt | strip_newlines | strip | jsonify }},
-      "mainEntityOfPage": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "description": {{ page.excerpt | strip_newlines | strip | jsonify }},
+        "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://google.com/article"
-      },
-      "headline": "{{page.title}}",
-      "image": [
-        "{{ "/img/" | relative_url }}{{ page.image }}"
-      ],
-      "datePublished": "{{ page.date | date: "%Y-%m-%d" }}"
+        "@id": "{{site.url}}{{page.url}}"
+        },
+        "headline": "{{page.title}}",
+        "image": [
+        "{{site.url}}{{ "img/" | relative_url }}{{ page.image }}"
+        ],
+        "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+        "dateModified" : "{{ page.date | date: "%Y-%m-%d" }}",
+        "author": {
+        "@type": "Person",
+        "name": "Eltham Family Dental"
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Eltham Family Dental",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://elthamfamilydental.com.au/svg/min/logo.svg"
+            }
+         }
     }
     </script>
 </body>

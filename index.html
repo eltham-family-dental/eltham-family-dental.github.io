@@ -133,16 +133,19 @@ layout: default
             {% for vision in site.data.choose.member %}
             <div class="col-md-12 col-lg-4 bg-grey-lightest">
                 <div class="row align-items-center">
-                    <div class="col-4 col-lg-12">
+                    <div class="col-4 col-lg-12 d-none d-md-block">
                         <picture>
                             <source class="lazyload img-vision" type="image/webp" data-srcset="{{ site.baseurl }}/img/{{ vision.image-webp }}" style="margin-left: -30px;">
                             <source class="lazyload img-vision" type="image/jpeg" data-srcset="{{ site.baseurl }}/img/{{ vision.image }}" style="margin-left: -30px;">
                             <img class="lazyload img-vision" data-src="{{ site.baseurl }}/img/{{ vision.image }}" alt="Image" style="margin-left: -30px;">
                         </picture>
                     </div>
-                    <div class="col-8 col-lg-12">
+                    <div class="col-12 col-md-8 col-lg-12">
                         <div class="p-3">
-                            <h5 class="font-weight-bold mb-4">{{ vision.title }}</h5>
+                            <svg class="icon check-square d-inline-block d-md-none">
+                                <use xlink:href="#check-square"></use>
+                            </svg>
+                            <h5 class="font-weight-bold mb-4 d-inline-block d-md-block">{{ vision.title }}</h5>
                             <div class="font-size-medium mb-4 mb-md-0">
                                 <p>{{ vision.description }}</p>
                             </div>
