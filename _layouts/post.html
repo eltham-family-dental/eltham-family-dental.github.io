@@ -48,7 +48,7 @@
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "description": {{ page.excerpt | strip_newlines | strip | jsonify }},
-        "url": "{{site.url}}{{page.url | remove_first: "/"}}"
+        "url": "{{site.url}}{{page.url | remove_first: "/"}}",
         "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{site.url}}{{page.url | remove_first: "/"}}"
