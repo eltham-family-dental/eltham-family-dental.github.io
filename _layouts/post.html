@@ -27,10 +27,7 @@
             </div>
         </div>
     </main>
-    <a id="back-to-top" href="#home" class="btn btn-dental back-to-top" role="button" title="Click to return on the top page"
-    data-toggle="tooltip" data-placement="left">
-    <span ></span>
-    </a>
+    {% include fab.html %}
     {% include footer.html %}
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
     <script rel="preload" src="{{ "/js/all.min.js?cb=1573471678635" | relative_url }}"></script>
@@ -52,14 +49,9 @@
         "description": {{ page.excerpt | strip_newlines | strip_html | truncatewords:15 | jsonify }},
         "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
         "dateModified" : "{{ page.date | date: "%Y-%m-%d" }}",
+        "articleSection": "Stories",
         "url": "{{site.url}}{{page.url | remove_first: "/"}}",
-        "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{site.url}}{{page.url | remove_first: "/"}}"
-        },
-        "image": [
-        "https://elthamfamilydental.com.au/img/{{ page.image }}"
-        ],
+        "image": ["https://elthamfamilydental.com.au/img/{{ page.image }}"],
         "author": {
         "@type": "Person",
         "name": "Eltham Family Dental"
@@ -71,7 +63,11 @@
             "@type": "ImageObject",
             "url": "https://elthamfamilydental.com.au/img/logo.png"
             }
-         }
+         },
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{site.url}}{{page.url | remove_first: "/"}}"
+        }
     }
     </script>
 </body>
