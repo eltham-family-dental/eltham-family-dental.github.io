@@ -115,49 +115,60 @@ layout: default
 <!-- End 3 columns -->
 
 <!-- Start Section Why choose us -->
-<div id="offer" class="section section-vision mt-5">
+<div id="offer" class="section section-vision mt-5 pb-3">
     <div class="container">
         <h2 class="text-center mb-5 font-weight-bold grey-dark">Why choose us?</h2>
         <p class="font-size-medium">{{site.data.choose.header_text }}</p>
 
-        {% for list in site.data.choose.lists %}
-        <li class="font-size-medium">{{list.list_item}}</li>
-        {% endfor %}
+        <div class="row">
+            <ul>
+                {% for list in site.data.choose.lists %}
+                <li class="font-size-medium">{{list.list_item}}</li>
+                {% endfor %}
+            </ul>
+        </div>
 
         <br>
 
         <p class="font-size-medium">{{site.data.choose.header_text_2 }}</p>
 
+
+    </div>
+</div>
+
+<div class="bg-grey-lightest section-vision pb-90">
+    <div class="container">
         <div class="row pt-4 px-3 px-lg-0">
 
-            {% for vision in site.data.choose.member %}
-            <div class="col-md-12 col-lg-4 bg-grey-lightest">
-                <div class="row align-items-center">
-                    <div class="col-4 col-lg-12 d-none d-md-block">
-                        <picture>
-                            <source class="lazyload img-vision" type="image/webp" data-srcset="{{ site.baseurl }}/img/{{ vision.image-webp }}" style="margin-left: -30px;">
-                            <source class="lazyload img-vision" type="image/jpeg" data-srcset="{{ site.baseurl }}/img/{{ vision.image }}" style="margin-left: -30px;">
-                            <img class="lazyload img-vision" data-src="{{ site.baseurl }}/img/{{ vision.image }}" alt="Image" style="margin-left: -30px;">
-                        </picture>
-                    </div>
-                    <div class="col-12 col-md-8 col-lg-12">
-                        <div class="p-3">
-                            <svg class="icon check-square d-inline-block d-md-none">
-                                <use xlink:href="#check-square"></use>
-                            </svg>
-                            <h5 class="font-weight-bold mb-4 d-inline-block d-md-block">{{ vision.title }}</h5>
-                            <div class="font-size-medium mb-4 mb-md-0">
-                                <p>{{ vision.description }}</p>
-                            </div>
+        {% for vision in site.data.choose.member %}
+        <div class="col-md-12 col-lg-4 bg-grey-lightest">
+            <div class="row align-items-center">
+                <div class="col-4 col-lg-12 d-none d-md-block">
+                    <picture>
+                        <source class="lazyload img-vision" type="image/webp" data-srcset="{{ site.baseurl }}/img/{{ vision.image-webp }}" style="">
+                        <source class="lazyload img-vision" type="image/jpeg" data-srcset="{{ site.baseurl }}/img/{{ vision.image }}" style="">
+                        <img class="lazyload img-vision w-100" data-src="{{ site.baseurl }}/img/{{ vision.image }}" alt="Image" style="">
+                    </picture>
+                </div>
+                <div class="col-12 col-md-8 col-lg-12">
+                    <div class="p-3">
+                        <svg class="icon check-square d-inline-block d-md-none">
+                            <use xlink:href="#check-square"></use>
+                        </svg>
+                        <h5 class="font-weight-bold mb-4 d-inline-block d-md-block">{{ vision.title }}</h5>
+                        <div class="font-size-medium mb-4 mb-md-0">
+                            <p>{{ vision.description }}</p>
                         </div>
                     </div>
                 </div>
             </div>
-            {% endfor %}
-
+        </div>
+        {% endfor %}
         </div>
     </div>
 </div>
+
+
 <!-- End Section Why choose us -->
 <!-- Start Treatments -->
 <div id="treatments" class="treatments">
