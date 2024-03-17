@@ -1,7 +1,23 @@
 title: Our Amazing Team
 description: We are very proud of our dedicated, loyal, and hard-working team. We think of ourselves as a family, and working together as a team helps us to provide high quality dental care.
 members:
- - name: Dr. Indu Rose Joseph B.D.S
- image: 3.jpg
- position: Dentist
- text: Our passionate and gentle dentist with a decade of experience under her belt and a strong believer of preventive dentistry for both adults and children. She works well with nervous patients, helping them have their treatment completed comfortably.Member of Australian Dental Association and the International Team of Implantology. She enjoys building relationships with her patients and helping them achieve long-term dental stability and excellent oral health.
+  
+  - name: Dr. Eva Tyssen B.D.Sc
+    image: 2.jpg
+    position: Dentist
+    text: A great asset to our team with aeons of experience. With her attention to details  and artistic skills, Dr Eva has been consistently delivering high grade treatments over the last few decades. She has a special interest in root canal treatments and crown and bridge treatments. She is proud of her garden and is a strong advocate of sustainable lifestyle.
+
+  - name: Dr. Indu Rose Joseph B.D.S
+    image: 3.jpg
+    position: Dentist
+    text: Our passionate and gentle dentist with a decade of experience under her belt and a strong believer of preventive dentistry for both adults and children. She works well with nervous patients, helping them have their treatment completed comfortably.Member of Australian Dental Association and the International Team of Implantology. She enjoys building relationships with her patients and helping them achieve long-term dental stability and excellent oral health.
+
+  - name: Ms Blazenca
+    image: 4.jpg
+    position: Support team
+    text: A veteran in dental assisting and a familiar face to our regulars. She likes meeting people and getting involved in their dental health journey. Is an ardent lover of plants and ask her anything about her favourite Hoyas!
+
+  - name: Ms Kylie
+    image: 5.jpg
+    position: Support team
+    text: Kylie has been in the dental industry for the last 20 years and likes connecting with people. She is into sports and fitness and is a loyal Collingwood supporter.
