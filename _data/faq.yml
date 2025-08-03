@@ -1,24 +1,24 @@
 items:
-    - q: How much is a check-up and clean?
-    a: Starts from $59 for a limited check focusing only on the issue that you are presenting with and $89 for a full mouth comprehensive checkup - teeth , gums, jaw joints .  One hour consultation is $99.
+  - q: How much is a check-up and clean?
+    a: Starts from $59 for a limited check focusing only on the issue that you are presenting with and $89 for a full mouth comprehensive checkup - teeth, gums, jaw joints. One hour consultation is $99.
 
   - q: How much is a clean?
-    a: Starts from $128 - which includes full mouth cleaning with peizo scalers / ultrasonic scalers followed by prophy cup polishing.
+    a: Starts from $128 - which includes full mouth cleaning with piezo scalers / ultrasonic scalers followed by prophy cup polishing.
 
   - q: How much is a filling?
-    a: Filling cost depends one the size and site of the cavity. An amalgam  / silver filling starts from $136 and a composite/ tooth coloured filing starts from $146.
+    a: Filling cost depends on the size and site of the cavity. An amalgam / silver filling starts from $136 and a composite / tooth coloured filling starts from $146.
 
   - q: Do you accept health insurance?
-    a: We accept all health insurance and on the spot claiming is available.
+    a: We accept all health insurance and on-the-spot claiming is available.
 
   - q: Do you accept health care cards?
-    a: We do not accept health care cards,but talk to us as to what other options are available for you  for a personalised quality dental care.
+    a: We do not accept health care cards, but talk to us about what other options are available for personalised, quality dental care.
 
   - q: Do you do teeth whitening?
-    a: We offer various teeth whitening services including the Smartbleach laser teeth whitening as well as other In- chair systems like Pola office plus. Talk to us to know which option suit you better. We offer an obligation free whitening consultation.
+    a: We offer various teeth whitening services including the Smartbleach laser teeth whitening as well as other in-chair systems like Pola Office Plus. Talk to us to know which option suits you better. We offer an obligation-free whitening consultation.
 
   - q: When should I take my kids to the dentist first?
-    a: It is a good idea to make the kids visit the dentist from as little as one year. By two and half years make sure you have done your first dental visit. Visit the dentist  at least once a year.
+    a: It is a good idea to make the kids visit the dentist from as early as one year old. By two and a half years, make sure you have done your first dental visit. Visit the dentist at least once a year.
 
   - q: I have a fear of dental treatment and have had bad experiences in the past, how can you help me?
     a: |
@@ -28,19 +28,31 @@ items:
       - Get to know you more and what makes you nervous
 
   - q: What happens if I don’t have health insurance cover?
-    a: Talk to us about our personalised preventive dental care plan which  will give you peace of mind that all your preventive dental care will be covered by convenient monthly payments. You can remove the financial pressure of treatment cost gaps and Health Fund treatment exclusions by planning ahead. Get the full value of your dental dollar.
+    a: Talk to us about our personalised preventive dental care plan which will give you peace of mind that all your preventive dental care will be covered by convenient monthly payments. You can remove the financial pressure of treatment cost gaps and Health Fund treatment exclusions by planning ahead. Get the full value of your dental dollar.
 
   - q: Why is Eltham Family Dental not a preferred provider?
     a: |+
-      In recent years some health funds have introduced “contracted dentist” schemes which claim to decrease your out-of-pocket costs. These schemes do not decrease your premiums or increase your annual limits, you may get lower gap payments with a contracted dentist, but you will be entitled to fewer claimable services in the same calendar year as that compared with a non-contracted dentist. Health Fund rebates have not only failed to keep pace with costs associated with the provision of dental care, but the range of services claimable in a calendar year have also become increasingly more restricted.By becoming a contracted dentist, the dentist concerned agrees to accept the terms and fees as set down by the respective health fund. This effectively guarantees the customer a fixed and predictable treatment gap. There are, however, problems with “managed care”. Like most things, you get what you pay for. Such schemes assume all dental providers are the same and that the only factor influencing choice is “cost”. This is a limited viewpoint of a very complex dentist-patient relationship, with other factors such as Trust, Quality and Care playing equal if not more important roles when choosing a dentist. In summary, standards may drop whilst treatment failure and patient dissatisfaction increase. Remember, the health fund is just a business and the contracted dentist scheme is a business decision. An interesting link to read&#58; <a href=http://mobile.abc.net.au/news/2017-06-30/dentists-say-targets-bonuses-leading-to-unnecessary-procedures/8665038?pfmredir=sm&sf94235976=1>dentists-say-targets-bonuses-leading-to-unnecessary-procedures</a> <br/><br/>
+      In recent years some health funds have introduced “contracted dentist” schemes which claim to decrease your out-of-pocket costs. These schemes do not decrease your premiums or increase your annual limits. You may get lower gap payments with a contracted dentist, but you will be entitled to fewer claimable services in the same calendar year compared with a non-contracted dentist.
 
-      Contracted dentists schemes remove patient rights to having their treatment performed by a clinician of their own choosing. Here at EFD we strongly believe contracted dentists schemes are not in the best interest of our patients. We believe it should be your choice to see whichever dentist you please not be dictated to by an insurance company. Ultimately it is your decision, and remember there are health funds out there doing the right thing by their customers and the dental profession. For further information just ask one of our friendly office staff members on alternative options.
- 
- - q: Is it safe to visit the dentist if i have a cold or a flu?
-   a: |+
+      Health fund rebates have not only failed to keep pace with costs associated with the provision of dental care, but the range of services claimable in a calendar year has also become increasingly restricted.
+
+      By becoming a contracted dentist, the dentist agrees to accept the terms and fees set by the respective health fund. This guarantees a fixed and predictable treatment gap. However, “managed care” has its problems. Like most things, you get what you pay for.
+
+      Such schemes assume all dental providers are the same and that the only factor influencing choice is “cost”. This is a limited view of a complex dentist-patient relationship, where trust, quality, and care are equally important.
+
+      In summary, standards may drop while treatment failures and dissatisfaction increase. Remember, the health fund is a business, and the contracted dentist scheme is a business decision.
+
+      An interesting link to read:  
+      <a href="http://mobile.abc.net.au/news/2017-06-30/dentists-say-targets-bonuses-leading-to-unnecessary-procedures/8665038?pfmredir=sm&sf94235976=1">dentists-say-targets-bonuses-leading-to-unnecessary-procedures</a>
+
+      Contracted dentist schemes remove patient rights to choose their clinician. At EFD, we believe this is not in your best interest. You should be free to see whichever dentist you please — not be dictated to by an insurance company.
+
+      Ask our friendly staff about alternatives.
+
+  - q: Is it safe to visit the dentist if I have a cold or a flu?
+    a: |+
       Please reschedule your appointment if you are feeling unwell with cold or flu symptoms (fever, cough, runny nose, sore throat). This protects our staff and other patients.
-      
-      When you are lying back in the dental chair, congestion can worsen and you will be more comfortable when healthy. Wait until you have been symptom-free for 24-48 hours before rebooking.
-      
-      For dental emergencies while unwell, please call us to discuss urgent care options.There is no penalty for rescheduling due to illness - we appreciate your consideration in keeping our practice safe.
 
+      When lying back in the dental chair, congestion can worsen and you will be more comfortable when healthy. Wait until you have been symptom-free for 24–48 hours before rebooking.
+
+      For dental emergencies while unwell, please call us to discuss urgent care options.
