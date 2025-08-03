@@ -1,10 +1,5 @@
 items:
-  - q: Is it safe to visit the dentist now with CoVID cases increasing?
-    a: |+
-      Australian dental practitioners have the highest infection control standards in the world and the safety of their patients and their teams is a cornerstone of Australian dental practice. Our clinic is taking a risk based approach to treating patients based on advise from Dental Board of Australia; this means where appropriate, dentists may take extra precautions, and if required you will be advised of these. <br />
-
-      During the COVID-19 pandemic, additional steps are being made to stop the spread of the virus. You might see an empty waiting room and be asked to wash your hands or use hand sanitiser as you enter the practice. Your dentist will ask you to do a mouthwash prior to treatment and may use a ‘rubber dam’ to perform any emergency treatment. All of these measures are designed to minimise any risk to you and to the practice team.
-
+ 
   - q: How much is a check-up and clean?
     a: Starts from $59 for a limited check focusing only on the issue that you are presenting with and $89 for a full mouth comprehensive checkup - teeth , gums, jaw joints .  One hour consultation is $99.
 
@@ -41,5 +36,10 @@ items:
       In recent years some health funds have introduced “contracted dentist” schemes which claim to decrease your out-of-pocket costs. These schemes do not decrease your premiums or increase your annual limits, you may get lower gap payments with a contracted dentist, but you will be entitled to fewer claimable services in the same calendar year as that compared with a non-contracted dentist. Health Fund rebates have not only failed to keep pace with costs associated with the provision of dental care, but the range of services claimable in a calendar year have also become increasingly more restricted.By becoming a contracted dentist, the dentist concerned agrees to accept the terms and fees as set down by the respective health fund. This effectively guarantees the customer a fixed and predictable treatment gap. There are, however, problems with “managed care”. Like most things, you get what you pay for. Such schemes assume all dental providers are the same and that the only factor influencing choice is “cost”. This is a limited viewpoint of a very complex dentist-patient relationship, with other factors such as Trust, Quality and Care playing equal if not more important roles when choosing a dentist. In summary, standards may drop whilst treatment failure and patient dissatisfaction increase. Remember, the health fund is just a business and the contracted dentist scheme is a business decision. An interesting link to read&#58; <a href=http://mobile.abc.net.au/news/2017-06-30/dentists-say-targets-bonuses-leading-to-unnecessary-procedures/8665038?pfmredir=sm&sf94235976=1>dentists-say-targets-bonuses-leading-to-unnecessary-procedures</a> <br/><br/>
 
       Contracted dentists schemes remove patient rights to having their treatment performed by a clinician of their own choosing. Here at EFD we strongly believe contracted dentists schemes are not in the best interest of our patients. We believe it should be your choice to see whichever dentist you please not be dictated to by an insurance company. Ultimately it is your decision, and remember there are health funds out there doing the right thing by their customers and the dental profession. For further information just ask one of our friendly office staff members on alternative options.
-
+ 
+ - q: Is it safe to visit the dentist if i have a cold or a flu?
+    a: |+
+      Please reschedule your appointment if you are feeling unwell with cold or flu symptoms (fever, cough, runny nose, sore throat). This protects our staff and other patients.
+      When you are lying back in the dental chair, congestion can worsen and you will be more comfortable when healthy. Wait until you have been symptom-free for 24-48 hours before rebooking.
+      For dental emergencies while unwell, please call us to discuss urgent care options.There is no penalty for rescheduling due to illness - we appreciate your consideration in keeping our practice safe.
 
