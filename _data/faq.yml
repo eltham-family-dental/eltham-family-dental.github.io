@@ -1,12 +1,12 @@
 items:
-  - q: How much is a check-up and clean?
-    a: Starts from $59 for a limited check focusing only on the issue that you are presenting with and $89 for a full mouth comprehensive checkup - teeth, gums, jaw joints. One hour consultation is $99.
+  - q: How much is a check-up?
+    a: Starts from $85 for a limited check focusing only on the issue that you are presenting with and $96 for a full mouth comprehensive checkup - teeth, gums, jaw joints. One hour consultation is $99.
 
   - q: How much is a clean?
-    a: Starts from $128 - which includes full mouth cleaning with piezo scalers / ultrasonic scalers followed by prophy cup polishing.
+    a: Starts from $176 - which includes full mouth cleaning with piezo scalers / ultrasonic scalers followed by prophy cup polishing.
 
   - q: How much is a filling?
-    a: Filling cost depends on the size and site of the cavity. An amalgam / silver filling starts from $136 and a composite / tooth coloured filling starts from $146.
+    a: Filling cost depends on the size and site of the cavity. An amalgam / silver filling starts from $156 and a composite / tooth coloured filling starts from $196.
 
   - q: Do you accept health insurance?
     a: We accept all health insurance and on-the-spot claiming is available.
@@ -25,6 +25,7 @@ items:
       - Fun friendly team <br />
       - Relaxing environment <br />
       - Music to calm you down <br />
+      - Nitrous Oxide commonly known as laughing gas <br />
       - Get to know you more and what makes you nervous
 
   - q: What happens if I don’t have health insurance cover?
