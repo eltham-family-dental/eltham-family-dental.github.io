@@ -2,15 +2,15 @@ title: Our Amazing Team
 description: We are very proud of our dedicated, loyal, and hard-working team. We think of ourselves as a family, and working together as a team helps us to provide high quality dental care.
 members:
   
-  - name: Dr Rosalind Peart B.D.S
-    image: 10.jpg
-    position: Dentist
-    text: Dr. Rosalind is an experienced dentist who has recently moved to Australia from New Zealand, bringing 25+ years of practice ownership experience. With a genuine passion for listening to her patients and helping them improve not only their oral health but their overall well-being. Her patient-centered approach and years of practice ownership have given her a deep understanding of comprehensive dental care and building lasting relationships with patients.
-
-  - name: Dr. Indu Rose Joseph B.D.S
+- name: Dr. Indu Rose Joseph B.D.S
     image: 3.jpg
     position: Dentist
     text: Our passionate and gentle dentist with extensive experience and a strong advocate for preventive dentistry for both adults and children. She has a wonderful way with anxious patients, ensuring they feel comfortable and relaxed throughout their treatment. A member of the Australian Dental Association, she stays current with the latest dental technologies and techniques to provide the best possible care. Dr. Indu loves building meaningful relationships with her patients and is dedicated to helping them achieve lasting dental health and optimal oral wellbeing.
+
+- name: Dr Rosalind Peart B.D.S
+    image: 10.jpg
+    position: Dentist
+    text: Dr. Rosalind is an experienced dentist who has recently moved to Australia from New Zealand, bringing 25+ years of practice ownership experience. With a genuine passion for listening to her patients and helping them improve not only their oral health but their overall well-being. Her patient-centered approach and years of practice ownership have given her a deep understanding of comprehensive dental care and building lasting relationships with patients.
 
   - name: Ms Blazenca
     image: 4.jpg
