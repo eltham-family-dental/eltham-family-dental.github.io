@@ -29,11 +29,6 @@ members:
       of practice ownership have given her a deep understanding of
       comprehensive dental care and building lasting relationships
       with patients.
-  - name: Ms Laylah
-    image: 11.jpg
-    position: Support team
-    text: >-
-      Meet Laylah — a qualified dental assistant with experience across general, cosmetic, and surgical dentistry. Whilst new to Eltham, she brings a calm, friendly approach to both chairside and reception. We're thrilled to have her on board!
   - name: Ms Kylie
     image: 5.jpg
     position: Support team
@@ -41,6 +36,11 @@ members:
       Kylie has been in the dental industry for the last 20 years and
       likes connecting with people. She is into sports and fitness and
       is a loyal Collingwood supporter.
+  - name: Ms Laylah
+    image: 11.jpg
+    position: Support team
+    text: >-
+      Meet Laylah — a qualified dental assistant with experience across general, cosmetic, and surgical dentistry. Whilst new to Eltham, she brings a calm, friendly approach to both chairside and reception. We're thrilled to have her on board!
   - name: Is this you?
     image: 2.jpg
     position: Support team
